@@ -1,5 +1,16 @@
 # Medical-Image-Classification-Using-GCP-Auto-ML
 
+# Reference Links
+For Step by Step solution.
+--https://towardsdatascience.com/google-cloud-automl-vision-for-medical-image-classification-76dfbf12a77e
+
+DataSet Repository
+--https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
+
+How to move from KaggleToGoogleCloudStorage
+--https://github.com/gitrekm/KaggleToGoogcleCloudStorage
+
+
 # Part 1: Enable AutoML Cloud Vision on GCP
 (1). Go to the cloud console: https://cloud.google.com/
 
